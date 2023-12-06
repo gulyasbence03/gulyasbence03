@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=3000&pause=400&color=000000&background=FF040400&random=false&width=435&lines=Hi%2C+I'm+Bence+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=3000&pause=400&color=000000&background=FF040400&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Bence+%F0%9F%91%8B;Welcome+to+my+profile!" alt="Typing SVG" /></a>
+
 <h3 align="center">Computer Science Engineering student at BME.</h3>
 
 <h3 align="left">Connect with me:</h3>
