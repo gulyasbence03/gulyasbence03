@@ -18,4 +18,4 @@
 <a href="https://www.leetcode.com/gulaschsuppe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gulaschsuppe" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulyasbence03&show_icons=true&locale=en&layout=compact" alt="gulyasbence03" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulyasbence03&show_icons=true&locale=en&layout=compact"/></p>
