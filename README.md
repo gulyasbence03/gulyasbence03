@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">Computer Science Engineering student at BME.</h3>
-<h3 align="center">Morgan Stanley Budapest Technology Intern/</h3>
+<h4 align="center">Morgan Stanley Budapest Technology Intern</h4>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
