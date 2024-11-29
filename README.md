@@ -9,7 +9,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,py,java,cpp,ts,androidstudio,kotlin,react,elixir,mongodb,postman,unity,c,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=cs,py,java,cpp,ts,androidstudio,kotlin,react,elixir,mongodb,postman,unity,c,html,css" />
   </a>
 </p>
 
